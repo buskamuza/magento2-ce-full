@@ -1,6 +1,6 @@
 {
     "name": "buskamuza/magento2-ce-full",
-    "version": "0.1.0-alpha100",
+    "version": "0.1.0-alpha94",
     "require": {
         "buskamuza/magento2-skeleton": "self.version",
         "magento/module-admin-notification": "self.version",
